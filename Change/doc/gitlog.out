@@ -1,0 +1,29 @@
+commit b36e933b1539e7c7e5e64d9d1b124d537d69af6d
+Author: kaurv <van491@usask.ca>
+Date:   Tue Oct 10 20:00:37 2023 -0600
+
+    Implemented the entire code
+
+commit 8d35c2e8d07371f714b29a0aafd996fe1984b6b3
+Author: kaurv <van491@usask.ca>
+Date:   Sun Oct 8 15:19:52 2023 -0600
+
+    Cleaned the code
+
+commit dcbc008f44808ee09e87548f0ce776fe4c0114c0
+Author: kaurv <van491@usask.ca>
+Date:   Sun Oct 8 14:43:24 2023 -0600
+
+    Implemented the backtracking solution
+
+commit 45267654d4355a89d9f9bb81a46c8c31d673a887
+Author: kaurv <van491@usask.ca>
+Date:   Sat Oct 7 20:41:44 2023 -0600
+
+    Added the base case and established the basic structure of the code
+
+commit c8a536de9bc3c8add07ff3e575533ec24e652b0a
+Author: kaurv <van491@usask.ca>
+Date:   Wed Oct 4 14:32:37 2023 -0600
+
+    Initial commit
